@@ -90,7 +90,7 @@
 
 ## 📊 GitHub Stats
 
-![Ganesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=GANESH607\&show_icons=true\&theme=radical)
+![Ganesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=GANESH607&show_icons=true&theme=radical&cache_seconds=86400)
 
 ---
 
