@@ -51,11 +51,12 @@
 
 ---
 
-### 🎯 Real-Time Object Detection System (YOLO)
+###  🎯 MEMOFLUX– AI-Powered Developer Automation Platform
 
-* Developed a real-time detection system using **YOLO & OpenCV**
-* Optimized performance for speed and accuracy
-* Implemented class-based filtering for specific object tracking
+* Developed an AI-powered multi-agent (MCP) system using LLM + RAG to generate documentation, test cases, and
+detect bugs from codebases.
+* Implemented embedding-based retrieval, MongoDB for task history, and automated email delivery of generated outputs
+to users.
 
 ---
 
